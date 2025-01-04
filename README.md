@@ -63,6 +63,9 @@ Experience the application live [here](#) .
 
 ## 🚀 Getting Started  
 
+![CaptureZxcczczcxzczxczx](https://github.com/user-attachments/assets/16ce46b8-9630-413c-a632-3f57eeeab6d7)
+
+
 ### Prerequisites  
 
 To run this project, you’ll need:  
@@ -74,4 +77,4 @@ To run this project, you’ll need:
 1. **Clone the Repository**  
    Open a terminal or command prompt and execute the following:  
    ```bash
-   git clone https://github.com/YourUsername/Drawing-App.git
+   git clone [https://github.com/DeveloperMukesh/Drawing-APP]
